@@ -1,2 +1,6 @@
 lesson 1
 Notite
+Agile
+User story
+User Point
+Sprint
