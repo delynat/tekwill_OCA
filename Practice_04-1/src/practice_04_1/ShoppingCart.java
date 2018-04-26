@@ -8,7 +8,7 @@ public class ShoppingCart {
         String custName="Mary Smith", itemDesc="Shirt";
         String message;
         // Assign the message variable 
-        message=custName+"vans to purchase a "+itemDesc;
+        message=custName+"vans to purchase a "+itemDesc+"!";
         // Print and run the code
 System.out.println(message);
     }
