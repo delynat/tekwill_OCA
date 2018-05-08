@@ -16,6 +16,8 @@ public class Item {
 
                 item1.desc="Shirt";
                 item2.desc="Belt";
+                item1=item2;
+                
                 System.out.println(item1.desc);
                 System.out.println(item2.desc);
         }
